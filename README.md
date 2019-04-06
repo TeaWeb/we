@@ -1,2 +1,2 @@
 # we
-Watching Everything in your server
+Watch Everything in your server
